@@ -22,4 +22,5 @@ public class OrderService {
     public List<Integer> getItems() {
         return shoppingCart.getItems();
     }
+
 }
